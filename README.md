@@ -1,77 +1,29 @@
-# Hi there 👋, I'm Ashish
+# Hi there 👋 I'm Ashish Kumar Paharia (@akpaharia)
 
-## Web Scraping & AI Automation Specialist
+I help businesses automate data collection, extract valuable insights, and build scalable workflows using web scraping, AI automation, and API integrations. My focus is on reducing manual work, improving efficiency, and delivering structured, high-quality data for lead generation, market research, and eCommerce operations. I work with clients globally to build reliable, scalable data solutions that save time and drive growth.
 
-I help businesses automate data collection, eliminate manual work, and build scalable data pipelines using web scraping and AI automation.
+[![Portfolio](https://img.shields.io/badge/Portfolio-cronbyte.com-blue)](https://cronbyte.com/about-us/portfolio/)
 
-### 🚀 About Me
+## 🔧 Technical Expertise
+- ⚡ Web Scraping & Data Extraction
+- 🤖 Workflow & AI Automation
+- 🔗 API Development & Integration
+- 🗄️ Database Management
+- 🛒 E-commerce & Data Processing
 
-- Founder of **Cronbyte Web Solutions**
-- 7+ years of experience in Web Scraping, Data Extraction & Automation
-- Building AI-powered workflows and business automation solutions
-- Experienced with Python, Playwright, APIs, n8n, Zapier, Make, and MongoDB
-- Helping businesses save time through scalable automation systems
+## 💻 Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,django,flask,fastapi,selenium,sqlite,docker,git,linux,cloudflare,blender,bots" />
+  </a>
+</p>
 
-### 🛠️ Core Expertise
+## 🔨 Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,windows,pycharm,vscode,blender" />
+  </a>
+</p>
 
-- Web Scraping
-- Data Extraction & Data Mining
-- AI Automation
-- Workflow Automation
-- API Integration
-- Lead Generation Systems
-- E-commerce Data Management
-- Data Processing & Cleaning
-
-### 💻 Tech Stack
-
-#### Languages
-- Python
-- JavaScript
-- SQL
-
-#### Scraping & Automation
-- Playwright
-- Selenium
-- BeautifulSoup
-- Scrapy
-- Requests
-- Octoparse
-
-#### Automation Tools
-- n8n
-- Zapier
-- Make (Integromat)
-- Google Sheets Automation
-
-#### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### 🌎 Industries Served
-- E-commerce
-- Real Estate
-- Market Research
-- Business Directories
-- Job Portals
-- Lead Generation
-
-### 📈 What I Build
-
-- Large-scale web scraping systems
-- AI-powered automation workflows
-- Lead generation pipelines
-- Data extraction APIs
-- E-commerce product management solutions
-- Custom business automation tools
-
-### 🤝 Let's Connect
-
-- Website:  https://cronbyte.com
-- LinkedIn: https://www.linkedin.com/in/ashish-kumar-paharia/
-- Upwork: https://www.upwork.com/freelancers/~011d4b1f68d811413e/
-
----
-
-⭐ Building scalable data solutions, automation systems, and AI-powered workflows.
+## 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-info@cronbyte.com-blue)](mailto:info@cronbyte.com)
